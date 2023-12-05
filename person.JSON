@@ -1,0 +1,42 @@
+[
+    {
+      "fname": "Harry",
+      "lname": "Harrison",
+      "gender": "undisclosed",
+      "age": "23"
+    },
+    {
+      "fname": "Nathan",
+      "lname": "Murray",
+      "gender": "male",
+      "age": "25"
+    },
+    {
+      "fname": "Billy",
+      "lname": "Bob",
+      "gender": "male"
+    },
+    {
+      "fname": "Lianne",
+      "lname": "Campbell",
+      "gender": "female",
+      "age": "31"
+    },
+    {
+      "fname": "Carey",
+      "lname": "Carson",
+      "gender": "female",
+      "age": "32"
+    },
+    {
+      "fname": "Art",
+      "lname": "Arthurson",
+      "gender": "non-binary"
+    },
+    {
+      "fname": "Lady",
+      "lname": "Leroy",
+      "gender": "non-binary",
+      "age": "32" 
+    }
+  ]
