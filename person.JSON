@@ -3,30 +3,35 @@
       "fname": "Harry",
       "lname": "Harrison",
       "gender": "undisclosed",
-      "age": "23"
+      "age": "23",
+      "status": "married"
     },
     {
       "fname": "Nathan",
       "lname": "Murray",
       "gender": "male",
-      "age": "25"
+      "age": "25",
+      "status": "single"
     },
     {
       "fname": "Billy",
       "lname": "Bob",
-      "gender": "male"
+      "gender": "male",
+      "status": "married"
     },
     {
       "fname": "Lianne",
       "lname": "Campbell",
       "gender": "female",
-      "age": "31"
+      "age": "31",
+      "status": "single"
     },
     {
       "fname": "Carey",
       "lname": "Carson",
       "gender": "female",
-      "age": "32"
+      "age": "32",
+      "status": "relationship"
     },
     {
       "fname": "Art",
@@ -37,6 +42,7 @@
       "fname": "Lady",
       "lname": "Leroy",
       "gender": "non-binary",
-      "age": "32" 
+      "age": "32",
+      "status": "relationship"
     }
   ]

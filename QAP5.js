@@ -45,6 +45,22 @@ fetch('./person.json')
       }
       console.log(person); // Log each person in the array to the console for age.
     });
+    data.forEach(person => {
+       switch(person.status){
+        case "married": 
+          console.log(`${person.fname} is currently married.`);
+          break;
+        case "relationship": 
+          console.log(`${person.fname} is currently in a relationship.`);
+          break;
+        case "single": 
+          console.log(`${person.fname} is currently single.`);
+          break;
+        default:
+          console.log(`${person.fname}'s relationship status is undisclosed.`);
+      }
+    console.log(person); // Log each person in the array to the console for status.
+  });
   })
   .catch(error => {
     // Catch any errors that occur while fetching the file
